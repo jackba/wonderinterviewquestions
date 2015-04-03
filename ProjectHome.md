@@ -1,0 +1,1 @@
+This android app is for store the interview question and answers
